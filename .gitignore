@@ -1,0 +1,11 @@
+*commands.txt
+env/
+media/
+*db.sqlite3
+.vscode/
+__pycache__/
+DevGram/__pycache__
+users/migrations
+users/__pycache__
+users/pictures/Captura_de_pantalla_10.png
+users/pictures/WhatsApp_Image_2020-11-12_at_11.43.05.jpeg
